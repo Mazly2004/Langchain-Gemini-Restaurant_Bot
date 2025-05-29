@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 python-dotenv
 langchain
 langchain-google-genai
 streamlit
+=======
+python-dotenv
+langchain
+langchain-google-genai
+streamlit
+>>>>>>> 11ae12367cda390b83bebd879275fb72c1346f9d
