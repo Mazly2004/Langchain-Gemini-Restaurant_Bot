@@ -1,4 +1,3 @@
-#Import dependencies
 import os
 from dotenv import load_dotenv
 import getpass
